@@ -1,9 +1,9 @@
 package October.ex_09102024;
 
-public class Lab011_Tableof10 {
+public class Lab011_Task_Tableof77UsingPrintf {
     public static void main(String[] args) {
-        int a = 10;
-        System.out.println("Table of 10: ");
+        int a = 77;
+        System.out.println("Table of 77: ");
         System.out.printf("%d * %d = %d", a,1,a*1);
         System.out.println();
         System.out.printf("%d * %d = %d", a,2,a*2);
