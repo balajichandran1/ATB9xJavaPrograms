@@ -1,6 +1,6 @@
 package October.ex_10102024;
 
-public class Lab011 {
+public class Lab009 {
     public static void main(String[] args) {
 
         //ESCAPE CHAR

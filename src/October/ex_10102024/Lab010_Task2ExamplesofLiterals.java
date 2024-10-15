@@ -1,6 +1,6 @@
 package October.ex_10102024;
 
-public class Lab13_Task2ExamplesofLiterals {
+public class Lab010_Task2ExamplesofLiterals {
 
         public static void main(String[] args) {
 

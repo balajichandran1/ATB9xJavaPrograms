@@ -1,6 +1,6 @@
 package October.ex_09102024;
 
-public class Lab012_Task_ConstantExample {
+public class Lab008_Task_ConstantExample {
 
     public static final int Max_users = 1000;
     public static final String App_Name = "MyApplication";
