@@ -1,6 +1,6 @@
 package October.ex_03102024;
 
-public class Lab004 {
+public class Lab004_Task3_SimpleCalculator {
     public static void main (String[] args)
     {
         System.out.println("Simple Calculator");

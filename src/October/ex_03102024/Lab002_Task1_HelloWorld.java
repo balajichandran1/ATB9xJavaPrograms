@@ -1,6 +1,6 @@
 package October.ex_03102024;
 
-public class Lab002 {
+public class Lab002_Task1_HelloWorld {
     public static void main(String[] args)
     {
 

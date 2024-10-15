@@ -1,6 +1,6 @@
 package October.ex_03102024;
 
-public class Lab003 {
+public class Lab003_Task2_Tableof10UsingSOP {
     public static void main (String[] args)
     {
         System.out.println("Table of 10");
