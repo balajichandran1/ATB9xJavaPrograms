@@ -9,7 +9,7 @@ public class Lab020_Scanner {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Enter the age");
         // int age = scanner.nextInt();
-//        float age = scanner.nextFloat();
+//      float age = scanner.nextFloat();
         double age = scanner.nextDouble();
 
         System.out.println(age > 25 ? "Allowed to Goa" : "Not Allowed");
