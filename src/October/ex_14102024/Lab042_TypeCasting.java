@@ -1,6 +1,6 @@
 package October.ex_14102024;
 
-public class Lab012_TypeCasting {
+public class Lab042_TypeCasting {
     public static void main(String[] args) {
         // 1. Implicit Casting (Widening)
         int intValue = 100;

@@ -1,6 +1,6 @@
 package October.ex_14102024;
 
-public class Lab_41 {
+public class Lab_041 {
     public static void main(String[] args) {
 
         // GST - 18.45
