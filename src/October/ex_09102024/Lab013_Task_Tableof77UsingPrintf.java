@@ -1,6 +1,6 @@
 package October.ex_09102024;
 
-public class Lab007_Task_Tableof77UsingPrintf {
+public class Lab013_Task_Tableof77UsingPrintf {
     public static void main(String[] args) {
         int a = 77;
         System.out.println("Table of 77: ");
