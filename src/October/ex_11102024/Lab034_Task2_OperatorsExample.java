@@ -1,6 +1,6 @@
 package October.ex_11102024;
 
-public class Lab011_Task2_OperatorsExample {
+public class Lab034_Task2_OperatorsExample {
     public static void main(String[] args) {
 
         // 1. Arithmetic Operators - Used to perform basic mathematical operations.
